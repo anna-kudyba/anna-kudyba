@@ -1,6 +1,7 @@
 # Where data meets storytelling. 🌟
 
-Hi, I’m **Anna Kudyba**, and I simplify complex things through critical thinking, storytelling, and an analytical mindset. I worked in diverse fields, and I’ve built a truly multidisciplinary toolbox along the way with data as my focus. My approach is simple: learn, analyze, build, optimize and grow.
+Hi there, I’m **Anna Kudyba**, and I simplify complex things through critical thinking, storytelling, and an analytical mindset. I’ve worked across diverse fields, building a unique toolbox with data at its core. 
+My approach is simple: learn, analyze, build, optimize and grow.
 
 ## About Me
 - **Critical Thinker** – Whether it's optimizing processes or taking new challenges, I use innovative, data-driven solutions.
