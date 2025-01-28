@@ -18,5 +18,5 @@ Now, I’m excited to take on projects where I can use my technical skills, busi
 
 ## Contact
 📧 [E-mail](mailto:info@annakudyba.com)  
-💼 [LinkedIn]([www.linkedin.com/in/anna-k-23a901111](https://www.linkedin.com/in/anna-k-23a901111/))
+💼 [LinkedIn](https://www.linkedin.com/in/anna-k-23a901111/)
 🌐 [Portfolio](https://swift-vacuum-b37.notion.site/My-portfolio-14684102756280f082c8e48b4cd505b7)
